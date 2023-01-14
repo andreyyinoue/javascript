@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(68, 207, 231);
+    font: normal 18pt arial;
+    text-align: center;
+}
+
+main{
+    background-image: linear-gradient(to right, white, rgb(168, 168, 168));
+    width: auto ;
+    height: 700px;
+    margin: 0px 50px;
+    border-radius: 20px;
+    box-shadow: 50px black;
+        
+}
+
+footer{
+    margin-top: 30px;
+    background-color: green;
+}
