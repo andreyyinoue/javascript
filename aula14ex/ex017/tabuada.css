@@ -20,25 +20,9 @@ section{
     box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.466);
 }
 
-#aisatsu{
-    padding-bottom: 10px;
-    font-size: 1.5em
-}
-
-#msg{
-    text-align: center;
-    padding-bottom: 20px;
-}
-
 footer{
     text-align: center;
     color: white;
     font-style: italic;
     font-weight: bold;
-}
-
-#foto{
-    height: 250px;
-    width: 250px;
-    border-radius: 50%;
 }
